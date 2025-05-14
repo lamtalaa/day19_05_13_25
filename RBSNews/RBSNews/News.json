@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Rob McLean, CNN Business",
+      "title": "Elon Musk says he has moved to Texas - CNN",
+      "description": "Tesla's CEO says he has relocated to the Lone Star State.",
+      "url": "https://www.cnn.com/2020/12/09/tech/elon-musk-texas/index.html",
+      "urlToImage": null,
+      "publishedAt": "2020-12-09T07:44:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Abhirup Roy",
+      "title": "No model for sale here, but India's small investors flock to Tesla stock - Reuters",
+      "description": "Mom-and-pop Indian investors increasingly buying U.S. stocks have been drawn to a company that has no presence in India so far: electric car maker Tesla Inc.",
+      "url": null,
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201209&t=2&i=1543917858&r=LYNXMPEGB80DK&w=800",
+      "publishedAt": "2020-12-09T07:15:00Z",
+      "content": "MUMBAI (Reuters) - Mom-and-pop Indian investors increasingly buying U.S. stocks have been drawn to a company that has no presence in India so far: electric car maker Tesla Inc.\r\nFILE PHOTO: Tesla Inc… [+1945 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Olivia Bugault",
+      "title": "Roche, Moderna partner over COVID-19 antibody test - MarketWatch",
+      "description": "",
+      "url": "https://www.marketwatch.com/story/roche-moderna-partner-over-covid-19-antibody-test-2020-12-09",
+      "urlToImage": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+      "publishedAt": "2020-12-09T06:53:00Z",
+      "content": "Roche Holding AG said Wednesday that it is partnering with Moderna Inc. to include its SARS-CoV-2 antibody tests in vaccine research trials currently done by the U.S. biotechnology company.\r\n\"Measuri… [+702 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Karen Gilchrist",
+      "title": "Women are 'absolutely critical' to ensuring everyone has access to finances, Bill Gates says - CNBC",
+      "description": "Reaching women is \"absolutely critical\" to ensuring finances trickle down to other parts of society,  Bill Gates said at Singapore FinTech Festival.",
+      "url": "https://www.cnbc.com/2020/12/09/bill-gates-women-are-vital-to-achieving-global-financial-inclusion.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106807668-1607420829905-gettyimages-1052192318-urn_newsml_dpa_com_20090101_181015-99-383971-3.jpeg?v=1607429963",
+      "publishedAt": "2020-12-09T05:26:00Z",
+      "content": "Bill Gates, Microsoft founder, at the discussion \"Innovation potential in Africa, in Berlin, Germany.\r\nWomen are vital to ensuring finances and financial education trickle down to other parts of soci… [+2730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Lucas Manfredi",
+      "title": "DoorDash IPO prices above range at $102 per share - Fox Business",
+      "description": "DoorDash said Tuesday evening that its initial public offering will be priced at $102 per share, above its previously announced price range of $90 to $95 per share, valuing the company at roughly $39 billion after it raised $3.37 billion.",
+      "url": "https://www.foxbusiness.com/markets/doordash-ipo-prices-above-initial-range-at-102-per-share",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/AP20343784934153.jpg?ve=1&tl=1",
+      "publishedAt": "2020-12-09T03:51:03Z",
+      "content": "DoorDash announced Tuesday evening that its much anticipated initial public offering will price at $102 per share --- far above its previously announced price range of $90 to $95 per share.\r\nThe upwa… [+3871 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bitcoin.com"
+      },
+      "author": null,
+      "title": "'Gold Is Rare but Not Too Rare' - Bitcoin's Supply Limit Hinders Usefulness, Says Steve Forbes | Finance - Bitcoin News",
+      "description": "Steve Forbes says that bitcoin's value “remains too volatile” and he believes the supply cap will someday “hinder its future usefulness.”",
+      "url": "https://news.bitcoin.com/gold-is-rare-but-not-too-rare-bitcoins-supply-limit-hinders-usefulness-says-steve-forbes/",
+      "urlToImage": "https://news.bitcoin.com/wp-content/uploads/2020/12/maxresdefault-1.jpg",
+      "publishedAt": "2020-12-09T02:15:28Z",
+      "content": "The American publishing executive, Steve Forbes, recently published a video concerning his thoughts on bitcoin and told viewers that the popular crypto asset is “not yet” the new gold. The business m… [+4141 chars]"
+    }
+  ]
+}
