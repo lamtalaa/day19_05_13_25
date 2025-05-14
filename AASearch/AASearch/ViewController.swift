@@ -11,9 +11,6 @@ import UIKit
 class ViewController: UIViewController {
     @IBOutlet weak var searchBar: UISearchBar!
     @IBOutlet weak var tableView: UITableView!
-
-    var results: [ResultItem] = []
-    var relatedTopics: [RelatedTopicItem] = []
     
     private let viewModel = SearchViewModel()
 
@@ -41,8 +38,6 @@ class ViewController: UIViewController {
 
 extension ViewController: SearchViewModelProtocol {
     func didUpdateSearchResults(results: [ResultItem], relatedTopics: [RelatedTopicItem]) {
-        self.results = results
-        self.relatedTopics = relatedTopics
         DispatchQueue.main.async {
             self.tableView.reloadData()
         }
